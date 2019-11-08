@@ -3,7 +3,13 @@ import React from 'react'
 function AboutUsPage() {
     return (
         <>
-            <p>AboutUsPage.js</p>
+            <p>AboutUsPage </p>
+            <p>AboutUsPage </p>
+            <p>AboutUsPage </p>
+            <p>AboutUsPage </p>
+            <p>AboutUsPage </p>
+            <p>AboutUsPage </p>
+            <p>AboutUsPage </p>
         </>
     )
 }
